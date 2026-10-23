@@ -1,0 +1,6 @@
+{
+  "name": "Sigma Clash - Mobile Battle Royale",
+  "description": "Experience fast 10-minute 50-player battle royale action with anime-styled graphics, custom gloo-wall tactics, and zero lag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
